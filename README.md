@@ -14,3 +14,18 @@ DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permain
 * Kesulitan dalam mengatur keuangan
 * Kesulitan dalam memantau Customer yang sedang bermain
 * Owner belum bisa mempromosikan event/perlombaan yang di selenggarakan dengan baik
+
+-----------------------
+## Solusi yang ditawarkan
+* Membuat Aplikasi yang user friendly
+* Penambahan Metode Pembayaran
+* Pelatihan Karyawan
+* Peningkatan Promosi
+* Bisa Pemesanan/Reservasi online
+* Manajemen Keuangan
+
+  ------------------------
+## Actor yang digunakan
+* Customer (Orang yang menyewa konsol PlayStation dan permainan untuk digunakan dalam jangka waktu tertentu dengan pembayaran sesuai tarif yang ditetapkan oleh penyedia jasa)
+* Admin (Orang yang bertanggung jawab mengelola dan mengoperasikan platform online yang digunakan untuk memesan konsol PlayStation dan permainan, serta melakukan manajemen data pelanggan, inventaris, dan transaksi)
+* Teknisi (Orang yang bertanggung jawab untuk mengelola dan memelihara situs web jasa rental PlayStation, termasuk pembaruan konten, perbaikan teknis, dan optimalisasi pengalaman pengguna) 
