@@ -30,7 +30,7 @@ DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permain
 * Admin (Orang yang bertanggung jawab mengelola dan mengoperasikan platform online yang digunakan untuk memesan konsol PlayStation dan permainan, serta melakukan manajemen data pelanggan, inventaris, dan transaksi)
 * Teknisi (Orang yang bertanggung jawab untuk mengelola dan memelihara situs web jasa rental PlayStation, termasuk pembaruan konten, perbaikan teknis, dan optimalisasi pengalaman pengguna)
 
-* --------------------------
+ --------------------------
 ## Use Case, ERD, Class Diagram, dan Wireframe
 ### Use Case :
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO/blob/main/USE%20CASE.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/angelinasbln/UTS-APBO-/blob/main/USE%20CASE.png)
